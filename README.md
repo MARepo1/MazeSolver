@@ -1,8 +1,6 @@
-![Open in Codespaces](https://classroom.github.com/assets/open-in-codespaces-abfff4d4e15f9e1bd8274d9a39a0befe03a0632bb0f153d0ec72ff541cedbe34.svg)
-# CSC 240 Computer Science III
-### Homework 2  Recursion: Solving a Maze
 
-[![Points badge](../../blob/badges/.github/badges/points.svg)](../../actions)
+# CSC 240 Computer Science III
+### Homework Recursion: Solving a Maze
 
 ## Requirements
 
